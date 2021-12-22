@@ -1,0 +1,12 @@
+body {
+  width: 500px;
+}
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+}
+.home-page {
+  position: absolute;
+  top: 7.5px;
+  left: 7.5px;
+}
